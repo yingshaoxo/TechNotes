@@ -25,4 +25,6 @@ http://www.javadecompilers.com/
 ## When you meet `odex`
 You can get the `odex` file from the android system image, for example, the .img file
 
+https://bitbucket.org/JesusFreke/smali/downloads/
+
 https://www.jianshu.com/p/22afbc58b6b8
