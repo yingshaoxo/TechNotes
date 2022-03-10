@@ -36,3 +36,6 @@ users.insert_one({"name": "John"})
 for user in users.find():
     print(user)
 ```
+
+## template
+https://github.com/yingshaoxo/mongodbTest
