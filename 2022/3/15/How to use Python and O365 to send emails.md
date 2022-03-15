@@ -15,6 +15,7 @@ https://github.com/O365/python-o365#authentication
 class MyO365():
     def __init__(self, credentials):
         """
+        credentials = (client_id, client_secret)
         credentials = ('dhasldl-b8ab-4730-93f1-cee730a4044b', 'salhdlghsaldh~ufOj2-4~69sCMZ05D_')
         """
         from O365 import Account
