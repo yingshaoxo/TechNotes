@@ -5,8 +5,10 @@
 poetry add o365
 ```
 
+
 ## get credentials
 https://github.com/O365/python-o365#authentication
+
 
 ## python code
 ```python
@@ -35,5 +37,3 @@ class MyO365():
         m.body = body
         m.send()
 ```
-
-## get credentials
