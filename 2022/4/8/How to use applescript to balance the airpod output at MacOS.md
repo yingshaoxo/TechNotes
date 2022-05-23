@@ -24,3 +24,10 @@ end tell
 Now double click it.
 
 And hit the `run`
+
+## The potiential reason of why airpod got wrong volume balance
+You should open the box of AirPods for 5 seconds until it is paired with the macOS.
+
+Then you use it.
+
+Otherwise if you too hurry to take one out while leaving another one still inside of that box, you'll get unbalanced AirPods paired with your macOS.
