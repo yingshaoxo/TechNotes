@@ -1,0 +1,489 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1351px" height="1741px" viewBox="-0.5 -0.5 1351 1741" content="&lt;mxfile&gt;&lt;diagram id=&quot;2oR80dyLC8GmsV-fRrAK&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="10" y="70" width="1340" height="210" fill="#d5e8d4" stroke="#82b366" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 175px; margin-left: 12px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                <div>
+                                    <font color="#000000" face="helvetica neue">
+                                        <span style="font-size: 13px">
+                                            <br/>
+                                        </span>
+                                    </font>
+                                </div>
+                                <ol class="ol1" style="color: rgb(0 , 0 , 0)">
+                                    <li class="li1" style="font-size: 13px ; margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &quot;helvetica neue&quot;">
+                                        Backend Logic:
+                                        <br/>
+                                    </li>
+                                    <ol class="ol1" style="font-size: medium">
+                                        <li class="li1" style="margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &quot;helvetica neue&quot;">
+                                            Set 12 different chips (instances/clients). (1 board represent 1 team
+                                        </li>
+                                        <li class="li1" style="margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &quot;helvetica neue&quot;">
+                                            For each client, it has to control 12 pins. (for each pin, you have to set the voltage to 0v or 3.3v.
+                                        </li>
+                                        <li class="li1" style="margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &quot;helvetica neue&quot;">
+                                            You would have a central server, it controls the 12 clients.
+                                        </li>
+                                        <li class="li1" style="margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &quot;helvetica neue&quot;">
+                                            For each client, it also has another 12 buttons, it receives the input from our users and the central server needed to get that info
+                                        </li>
+                                        <li class="li1" style="margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &quot;helvetica neue&quot;">
+                                            We have to have a central server, it should be written by using Python, and it has to connect to 12 clients. The server needed to distiguash the 12 different clients. And receive differetent boards informatin accordingly
+                                        </li>
+                                        <li class="li1" style="margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &quot;helvetica neue&quot;">
+                                            We have to maintain a shared state for all those pins for each client
+                                        </li>
+                                    </ol>
+                                </ol>
+                                <div>
+                                    <br/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="12" y="179" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Backend Logic:...
+                </text>
+            </switch>
+        </g>
+        <rect x="10" y="320" width="620" height="180" fill="#d5e8d4" stroke="#82b366" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 410px; margin-left: 12px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                <ol class="ol1" style="color: rgb(0 , 0 , 0)">
+                                    <li class="li1" style="font-size: 13px ; margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &quot;helvetica neue&quot;">
+                                        <span>
+                                            UI:
+                                        </span>
+                                        <br/>
+                                    </li>
+                                </ol>
+                                <ol class="ol1" style="color: rgb(0 , 0 , 0)">
+                                    <ol class="ol1" style="font-size: medium">
+                                        <li class="li1" style="margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &quot;helvetica neue&quot;">
+                                            Machine type selection will only changes the background image
+                                            <span class="s1" style="font-stretch: normal ; line-height: normal ; font-family: &quot;pingfang sc&quot;">
+                                                ；
+                                            </span>
+                                        </li>
+                                        <li class="li1" style="margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &quot;helvetica neue&quot;">
+                                            For each client; it shoud display 12 buttons; red button means off, green button means on.
+                                        </li>
+                                        <li class="li1" style="margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &quot;helvetica neue&quot;">
+                                            Different client/team(board) could return different button press signal to indicate the fixing
+                                        </li>
+                                        <li class="li1" style="margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &quot;helvetica neue&quot;">
+                                            Turing. If they choose red, turn red to green
+                                        </li>
+                                        <li class="li1" style="margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &quot;helvetica neue&quot;">
+                                            Statistic for scores (by displaying a ‘start test’ button
+                                        </li>
+                                    </ol>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="12" y="414" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    UI:...
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="0" width="240" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 20px; margin-left: 120px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 32px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                Pyboard Project
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="120" y="30" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="32px" text-anchor="middle">
+                    Pyboard Project
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="590" width="220" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 610px; margin-left: 110px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 32px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                Data structure
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="110" y="620" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="32px" text-anchor="middle">
+                    Data structure
+                </text>
+            </switch>
+        </g>
+        <rect x="10" y="660" width="620" height="290" fill="#d5e8d4" stroke="#82b366" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 612px; height: 1px; padding-top: 650px; margin-left: 15px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 300px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <h1 style="font-size: 16px">
+                                    <span style="font-weight: normal">
+                                        For the Server, it meantains this:
+                                    </span>
+                                </h1>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        {
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        <span style="white-space: pre">
+                                        </span>
+                                        1: {
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        <span style="white-space: pre">
+                                        </span>
+                                        <span style="white-space: pre">
+                                        </span>
+                                        1: 'on',
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        <span style="white-space: pre">
+                                        </span>
+                                        <span style="white-space: pre">
+                                        </span>
+                                        ...
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        <span style="white-space: pre">
+                                        </span>
+                                        <span style="white-space: pre">
+                                        </span>
+                                        12: 'off',
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        <span style="white-space: pre">
+                                        </span>
+                                        },
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        <span style="white-space: pre">
+                                        </span>
+                                        2: {},
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        <span style="white-space: pre">
+                                        </span>
+                                        3: {},
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        <span style="white-space: pre">
+                                        </span>
+                                        ...
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        <span style="white-space: pre">
+                                        </span>
+                                        12: {},
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        }
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="15" y="666" fill="#000000" font-family="Helvetica" font-size="16px">
+                    For the Server, it meantains this:...
+                </text>
+            </switch>
+        </g>
+        <rect x="10" y="1420" width="620" height="320" fill="#d5e8d4" stroke="#82b366" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 612px; height: 1px; padding-top: 1410px; margin-left: 15px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 330px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <h1 style="font-size: 16px">
+                                    <span style="font-weight: normal">
+                                        For the client, it listens to those button-clicks
+                                    </span>
+                                </h1>
+                                <div>
+                                    <span>
+                                        For each time, it will receive a number, from 1 to 12
+                                    </span>
+                                </div>
+                                <div>
+                                    <br/>
+                                </div>
+                                <div>
+                                    <br/>
+                                </div>
+                                <div>
+                                    It should also have a constant number to indicate who it is, it is a number between 1-12.
+                                </div>
+                                <div>
+                                    <br/>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        For the client, it should also meantain a dict:
+                                    </span>
+                                </div>
+                                <div>
+                                    <br/>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        {
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        <span style="white-space: pre">
+                                        </span>
+                                        1: 'on',
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        <span style="white-space: pre">
+                                        </span>
+                                        ...
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        <span style="white-space: pre">
+                                        </span>
+                                        12: 'off',
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        }
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <br/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="15" y="1426" fill="#000000" font-family="Helvetica" font-size="16px">
+                    For the client, it listens to those button-clicks...
+                </text>
+            </switch>
+        </g>
+        <rect x="10" y="980" width="620" height="410" fill="#d5e8d4" stroke="#82b366" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 612px; height: 1px; padding-top: 970px; margin-left: 15px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 420px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <h1 style="font-size: 16px">
+                                    <span style="font-weight: 400">
+                                        The communication data structure:
+                                    </span>
+                                </h1>
+                                <div>
+                                    <span style="font-weight: normal">
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <br/>
+                                </div>
+                                <div>
+                                    It should constantly sends out:
+                                </div>
+                                <div>
+                                    {
+                                </div>
+                                <div>
+                                    <span>
+                                    </span>
+                                    <span style="white-space: pre">
+                                    </span>
+                                    id: the_number_of_this_chip,
+                                    <br/>
+                                </div>
+                                <div>
+                                    <span>
+                                    </span>
+                                    <span style="white-space: pre">
+                                    </span>
+                                    data: {
+                                </div>
+                                <div>
+                                    <span>
+                                    </span>
+                                    <span>
+                                    </span>
+                                    <span style="white-space: pre">
+                                    </span>
+                                    <span style="white-space: pre">
+                                    </span>
+                                    1: 'on',
+                                    <br/>
+                                </div>
+                                <div>
+                                    <span>
+                                    </span>
+                                    <span>
+                                    </span>
+                                    <span style="white-space: pre">
+                                    </span>
+                                    <span style="white-space: pre">
+                                    </span>
+                                    ...,
+                                    <br/>
+                                </div>
+                                <div>
+                                    <span>
+                                    </span>
+                                    <span>
+                                    </span>
+                                    <span style="white-space: pre">
+                                    </span>
+                                    <span style="white-space: pre">
+                                    </span>
+                                    12: 'off',
+                                    <br/>
+                                </div>
+                                <div>
+                                    <span>
+                                    </span>
+                                    <span style="white-space: pre">
+                                    </span>
+                                    }
+                                </div>
+                                <div>
+                                    }
+                                </div>
+                                <div>
+                                    <br/>
+                                </div>
+                                <div>
+                                    <span>
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span>
+                                        <br/>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span>
+                                        For the info data it returns to the server, it should be:
+                                    </span>
+                                    <br/>
+                                </div>
+                                <div>
+                                    <div>
+                                        {
+                                    </div>
+                                    <div>
+                                        <span>
+                                        </span>
+                                        <span style="white-space: pre">
+                                        </span>
+                                        id: the_number_of_this_chip,
+                                        <br/>
+                                    </div>
+                                    <div>
+                                        <span>
+                                        </span>
+                                        <span style="white-space: pre">
+                                        </span>
+                                        button_number: number
+                                        <br/>
+                                    </div>
+                                    <div>
+                                        }
+                                    </div>
+                                </div>
+                                <div>
+                                    <br/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="15" y="986" fill="#000000" font-family="Helvetica" font-size="16px">
+                    The communication data structure:...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
