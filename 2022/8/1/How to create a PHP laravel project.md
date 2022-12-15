@@ -3,6 +3,16 @@
 ## 1. Install composor
 Google `how to install php composor on xx`.
 
+https://getcomposer.org/download/
+
+```bash
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+
+sudo mv composer.phar /usr/local/bin/composer
+```
+
 ## 2. Install laravel
 ```bash
 composer global require laravel/installer
@@ -24,11 +34,10 @@ php artisan breeze:install vue --ssr
 
 ## 5. Run it
 ```bash
-npm install
-
 php artisan serve
 
 # open another terminal
+npm install
 npm run dev
 ```
 
